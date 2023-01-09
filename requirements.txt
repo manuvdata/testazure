@@ -17,3 +17,5 @@ requests==2.23.0
 pytest
 opencensus
 opencensus-ext-azure
+
+botbuilder-applicationinsights==4.13.0
