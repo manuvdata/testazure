@@ -1,0 +1,2 @@
+botbuider-core==4.13.0
+aiohttp
