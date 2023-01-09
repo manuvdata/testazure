@@ -19,3 +19,4 @@ opencensus
 opencensus-ext-azure
 
 botbuilder-applicationinsights==4.13.0
+botbuilder-integration-applicationinsights-aiohttp==4.13.0
